@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hugo 主题 Stack</title>
+        <link>//localhost:1313/posts/</link>
+        <description>Recent content in Posts on Hugo 主题 Stack</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh</language>
+        <lastBuildDate>Sat, 30 May 2026 22:52:51 +0800</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>My First Post</title>
+            <link>//localhost:1313/posts/my-first-post/</link>
+            <pubDate>Sat, 30 May 2026 22:52:51 +0800</pubDate>
+            <guid>//localhost:1313/posts/my-first-post/</guid>
+            <description>&lt;h1 id=&#34;欢迎来到我的第一篇文章&#34;&gt;欢迎来到我的第一篇文章！&#xD;&#xA;&lt;/h1&gt;&lt;p&gt;这是文章的正文内容。&lt;/p&gt;&#xA;&lt;p&gt;你可以在这里写任何你想写的内容，支持 Markdown 格式。&lt;/p&gt;&#xA;&lt;h2 id=&#34;二级标题&#34;&gt;二级标题&#xD;&#xA;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;这是一个列表&lt;/li&gt;&#xA;&lt;li&gt;第二项&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;粗体&lt;/strong&gt; 和 &lt;em&gt;斜体&lt;/em&gt; 也支持。&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>
