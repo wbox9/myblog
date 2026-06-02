@@ -1,5 +1,5 @@
 ---
-title: 短代码
+title: 短代码 更新测试
 date: 2026-01-26
 description: 展示 Stack 主题支持的各种短代码。
 categories:
