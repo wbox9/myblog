@@ -13,3 +13,11 @@
 
     [social.params]
         icon = "brand-twitter"
+
+[[social]]
+    identifier = "Youtube"
+    name       = "Youtube"
+    url        = "https://www.youtube.com/@OneSmallStepMe"
+
+    [social.params]
+        icon = "brand-youtube"
