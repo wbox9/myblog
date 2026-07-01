@@ -1,0 +1,19 @@
+/* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+
+:root {
+    --accent-color: #c2410c;
+    --body-background: #faf6f1;
+    --card-background: #ffffff;
+    --code-background-color: #fef3e7;
+    --code-text-color: #9a3412;
+
+    &[data-scheme="dark"] {
+        --accent-color: #fb923c;
+        --body-background: #1c1410;
+        --card-background: #2a2018;
+        --code-background-color: #3a2c1f;
+        --code-text-color: #fcd34d;
+    }
+}
+
+
