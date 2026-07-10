@@ -19,3 +19,7 @@ theme = "hugo-theme-stack"
 
 [services.disqus]
     shortname = "hugo-theme-stack"
+
+[services]
+  [services.googleAnalytics]
+    googleAnalytics = 'G-68G2LEB5G5'

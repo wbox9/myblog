@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on 你的博客名称</title>
-        <link>http://localhost:59786/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Categories on 你的博客名称</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh</language>
-        <lastBuildDate>Sat, 27 Jun 2026 16:14:30 +0800</lastBuildDate><atom:link href="http://localhost:59786/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Jun 2026 16:14:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Hugo建站指南</title>
-            <link>http://localhost:59786/categories/hugo%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</link>
+            <link>http://localhost:1313/categories/hugo%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</link>
             <pubDate>Sat, 27 Jun 2026 16:14:30 +0800</pubDate>
-            <guid>http://localhost:59786/categories/hugo%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</guid>
+            <guid>http://localhost:1313/categories/hugo%E5%BB%BA%E7%AB%99%E6%8C%87%E5%8D%97/</guid>
             <description></description>
         </item><item>
             <title>Documentation</title>
-            <link>http://localhost:59786/categories/documentation/</link>
+            <link>http://localhost:1313/categories/documentation/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:59786/categories/documentation/</guid>
+            <guid>http://localhost:1313/categories/documentation/</guid>
             <description></description>
         </item><item>
             <title>Syntax</title>
-            <link>http://localhost:59786/categories/syntax/</link>
+            <link>http://localhost:1313/categories/syntax/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:59786/categories/syntax/</guid>
+            <guid>http://localhost:1313/categories/syntax/</guid>
             <description></description>
         </item><item>
             <title>Themes</title>
-            <link>http://localhost:59786/categories/themes/</link>
+            <link>http://localhost:1313/categories/themes/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:59786/categories/themes/</guid>
+            <guid>http://localhost:1313/categories/themes/</guid>
             <description></description>
         </item><item>
             <title>Testing</title>
-            <link>http://localhost:59786/categories/testing/</link>
+            <link>http://localhost:1313/categories/testing/</link>
             <pubDate>Wed, 12 Jan 2000 00:00:00 +0000</pubDate>
-            <guid>http://localhost:59786/categories/testing/</guid>
+            <guid>http://localhost:1313/categories/testing/</guid>
             <description></description>
         </item></channel>
 </rss>

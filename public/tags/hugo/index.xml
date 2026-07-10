@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Hugo on 你的博客名称</title>
-        <link>http://localhost:59786/tags/hugo/</link>
+        <link>http://localhost:1313/tags/hugo/</link>
         <description>Recent content in Hugo on 你的博客名称</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh</language>
-        <lastBuildDate>Sat, 27 Jun 2026 16:14:30 +0800</lastBuildDate><atom:link href="http://localhost:59786/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Jun 2026 16:14:30 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Test Archetype</title>
-            <link>http://localhost:59786/posts--/test-archetype/</link>
+            <link>http://localhost:1313/posts--/test-archetype/</link>
             <pubDate>Sat, 27 Jun 2026 16:14:30 +0800</pubDate>
-            <guid>http://localhost:59786/posts--/test-archetype/</guid>
+            <guid>http://localhost:1313/posts--/test-archetype/</guid>
             <description>&lt;p&gt;这是 archetype 模板测试文档&lt;/p&gt;&#xA;</description>
         </item></channel>
 </rss>
