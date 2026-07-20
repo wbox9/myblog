@@ -29,6 +29,21 @@ favicon        = "img/favicon.png"
     enabled  = true
     provider = "disqus"
 
+    [comments.giscus]
+        repo             = "wbox9/myblog"
+        repoID           = "R_kgDOStvtoA"
+        category         = "Announcements"
+        categoryID       = "DIC_kwDOStvtoM4DBgmk"
+        mapping          = "pathname"
+        lightTheme       = "light"
+        darkTheme        = "dark_dimmed"
+        reactionsEnabled = 1
+        emitMetadata     = 0
+        inputPosition    = "top"
+        lang             = "zh-CN"
+        strict           = 0
+        loading          = "lazy"
+
 # GDPR Cookie Consent Configuration
 # When enabled, analytics and functional cookies require user consent
 [cookies]

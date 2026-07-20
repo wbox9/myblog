@@ -23,4 +23,5 @@ theme = "hugo-theme-stack"
 [services]
   [services.googleAnalytics]
     id = 'G-68G2LEB5G5'
+
     
