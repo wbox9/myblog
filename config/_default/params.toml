@@ -26,7 +26,7 @@ favicon        = "img/favicon.png"
 
 [comments]
     # See complete configuration in config/_default/params.toml
-    enabled  = false
+    enabled  = true
     provider = "giscus"
 
     [comments.giscus]
