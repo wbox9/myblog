@@ -3,6 +3,7 @@ title: 相册
 description: 展示内置的相册支持
 date: 2026-01-26
 slug: image-gallery
+comments: false
 image: helena-hertz-wWZzXlDpMog-unsplash.jpg
 categories:
     - Documentation
